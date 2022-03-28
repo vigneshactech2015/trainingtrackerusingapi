@@ -1,0 +1,50 @@
+{
+  "Trainer": [
+    {
+      "name": "pankaj",
+      "id": 1
+    },
+    {
+      "name": "vignesh",
+      "id": 2
+    },
+    {
+      "name": "virat",
+      "id": 3
+    }
+  ],
+  "Resources": [],
+  "Audience": [
+    {
+      "name": "fresher",
+      "id": 1
+    }
+  ],
+  "Curriculum": [
+    {
+      "trainingfor": "react",
+      "startdate": "2022-02-01",
+      "enddate": "2022-02-02",
+      "modeoftraining": "online",
+      "starttime": "00:00",
+      "endtime": "14:04",
+      "attendees": "30",
+      "audience": "fresher",
+      "id": 1
+    }
+  ],
+  "Prerequisite": [
+    {
+      "name": "HTML",
+      "id": "P1"
+    },
+    {
+      "name": "CSS",
+      "id": "P2"
+    },
+    {
+      "name": "js",
+      "id": "akJs0X4"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+.curriculumform{
+    margin-top: 120px;
+    margin-left: 120px;
+    border-radius:30px;
+    text-align:center;
+    height:700px;
+    background-color:lavender;
+    width:750px;
+}
+
+.trainingfor{
+    width:400px;
+}
+
+.modeoftraining{
+    width:400px;
+}
+
+.audiencetype{
+    width:400px;
+}
+
+.time{
+    width:400px;
+}
+
+.curriculumname{
+    width:400px;
+}
+
+.submitbutton{
+    width:250px;
+}

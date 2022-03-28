@@ -1,0 +1,35 @@
+.sidebar{
+    display:flex;
+    flex-direction: column;
+    font-weight: bolder;
+}
+
+.trainer{
+    margin-top: 70px;
+    text-decoration: none;
+    color:darkmagenta;
+}
+
+.resources{
+    margin-top:70px;
+    text-decoration: none;
+    color:maroon;
+}
+
+.audience{
+    margin-top: 70px;
+    text-decoration: none;
+    color:darkmagenta;
+}
+
+.curriculum{
+    margin-top:70px;
+    text-decoration: none;
+    color:maroon;
+}
+
+.router{
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}

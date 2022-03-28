@@ -1,0 +1,14 @@
+.title{
+    margin-top:30px;
+    height:100px;
+    background-color:black;
+    color:bisque;
+    text-align: center;
+    font-weight: lighter;
+}
+
+.trainingtracker{
+    padding-top: 45px;
+    font-weight: lighter;
+    font-size: small;
+}
